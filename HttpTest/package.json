@@ -9,7 +9,7 @@
   "author": "Harald Kubota",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^5.7.0",
+    "eslint": "^9.39.1",
     "eslint-config-google": "^0.11.0"
   }
 }
